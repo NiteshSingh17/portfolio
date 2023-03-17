@@ -1,10 +1,10 @@
 {
-  "name": "Nitesh singh portfolio",
+  "name": "nitesh-singh-portfolio",
   "description": "Nitesh singh portfolio",
   "version": "0.0.0",
   "author": {
     "name": "Nitesh Singh",
-    "email": "niteshsingh1705@gmail.com",
+    "email": "niteshsingh1705@gmail.com"
   },
   "license": "MIT",
   "scripts": {

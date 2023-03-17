@@ -1,7 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@700&display=swap');
 /* Write custom base/ component/ utility styles with `@layer` directive */
 
 @layer base {
@@ -53,4 +53,13 @@
     content: '';
   }
 
+}
+
+body {
+  color: white;
+}
+
+:root {
+  --gray-md: rgb(41, 38, 38);
+  --text-size: 5rem;
 }

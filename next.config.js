@@ -1,14 +1,13 @@
 module.exports = {
   publicRuntimeConfig: {
     site: {
-      name: 'Next.js + Tailwind CSS template',
+      name: 'Nitesh Singh',
       url:
         process.env.NODE_ENV === 'development'
           ? 'http://localhost:3000'
-          : 'https://earvinpiamonte-nextjs-tailwindcss-template.vercel.app',
-      title: 'Next.js + Tailwind CSS template',
-      description: 'Next.js + Tailwind CSS template',
-      socialPreview: '/images/preview.png',
+          : '',
+      title: 'Nitesh Singh',
+      description: 'Nitesh Singh Portfolio',
     },
   },
   swcMinify: true,

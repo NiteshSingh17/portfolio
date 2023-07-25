@@ -17,6 +17,9 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
+        
+        <meta name="viewport" content="viewport-fit=cover" />
+  
           {/* Favicons, Google site verification and other common meta tags across the site. */}
         </Head>
         <body>

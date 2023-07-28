@@ -57,6 +57,7 @@
 
 body {
   color: white;
+  min-width: 1024px;
 }
 
 :root {

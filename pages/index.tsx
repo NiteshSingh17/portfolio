@@ -1,3 +1,4 @@
+import CretaterOf from '@/components/Cretater';
 import Footer from '@/components/Footer';
 import HeroSection from '@/components/HeroSection';
 import Layout from '@/components/Layout';
@@ -9,6 +10,7 @@ const Home = () => {
       <div className='font-spartan'>
         <HeroSection />
         <Skills />
+        <CretaterOf />
         <Footer />
       </div>
     </Layout>
